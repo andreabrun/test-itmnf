@@ -1,0 +1,6 @@
+services:
+  php-apache:
+    build: .
+    container_name: test-itmnf
+    ports:
+      - "80:80"

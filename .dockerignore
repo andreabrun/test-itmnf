@@ -1,0 +1,11 @@
+/doc
+README.md
+
+/.git
+.gitignore
+
+/output
+
+Dockerfile
+docker-compose.yml
+.dockerignore
